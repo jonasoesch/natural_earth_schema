@@ -1,5 +1,7 @@
 # Natural Earth Schema
 
+| Feature |
+| -------- |
 | ADM0_A3_DE |
 | featurecla |
 | scalerank |
