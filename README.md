@@ -6,7 +6,7 @@
 | featurecla  | ??? | Admin-0 country |
 | scalerank   | On what zoom-level a country should be displayed. Smaller values mean, that a country is bigger | 0 |
 | LABELRANK   | On what zoom-level the country should be labeled. Bigger values mean on higher zoom-levels | 2 |
-| SOVEREIGNT  |
+| SOVEREIGNT  | What is the governing sovereign. There are for example island nations like French polynesia which are governed by others | France | 
 | SOV_A3      |
 | ADM0_DIF |
 | LEVEL |
