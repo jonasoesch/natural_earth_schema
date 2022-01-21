@@ -1,13 +1,13 @@
 # Natural Earth Schema
 
-| Feature |
-| -------- |
-| ADM0_A3_DE |
-| featurecla |
-| scalerank |
-| LABELRANK |
-| SOVEREIGNT |
-| SOV_A3 |
+| Feature     | Meaning | Example |
+| --------    | ------- | --------|
+| ADM0_A3_DE  | ISO3-Code of the Feature | SWE | 
+| featurecla  | ??? | Admin-0 country |
+| scalerank   | On what zoom-level a country should be displayed. Smaller values mean, that a country is bigger | 0 |
+| LABELRANK   | On what zoom-level the country should be labeled. Bigger values mean on higher zoom-levels | 2 |
+| SOVEREIGNT  |
+| SOV_A3      |
 | ADM0_DIF |
 | LEVEL |
 | TYPE |
